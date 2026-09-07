@@ -1,0 +1,12 @@
+{
+  "name": "onikeuniverse",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo Build complete"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
